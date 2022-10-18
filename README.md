@@ -1,8 +1,5 @@
-- DevOps工程师
-- 曾为7家企业完成方案落地，完成业务内的全自动化构建发布流程
-- 
-
-<!---
-SingleCorner/SingleCorner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- DevOps工程师，布道师
+- 曾为7家企业完成方案落地，均实现全自动化流程
+- 感兴趣交流
+  - [![Gitter](https://badges.gitter.im/Mammdoo/community.svg)](https://gitter.im/Mammdoo/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+  - [slack](https://join.slack.com/t/mammdoo/shared_invite/zt-1hvr5rj87-vbpYDvcBGO8P16khQzi1TQ)
