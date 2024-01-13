@@ -12,14 +12,12 @@
   - 设计能快速恢复故障的手段
 
 - 主导以下项目的自动化部署流程
-  - 好买车(优易购车)
   - mobike摩拜单车
-  - 公园盒子-共享健身舱
   - [讯飞aiui](https://aiui.xfyun.cn)
   - [讯飞iFlyOS](https://iflyos.cn)
   - [rcrai循环智能(私有化部署)](https://rcrai.com)
 
 
 - 对我的任何项目感兴趣
-  - [![Gitter](https://badges.gitter.im/Mammdoo/community.svg)](https://gitter.im/Mammdoo/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+  #- [![Gitter](https://badges.gitter.im/Mammdoo/community.svg)](https://gitter.im/Mammdoo/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
   - [![slack](https://img.shields.io/badge/slack-Join%20Me-brightgreen.svg)](https://join.slack.com/t/mammdoo/shared_invite/zt-1hvr5rj87-vbpYDvcBGO8P16khQzi1TQ)
