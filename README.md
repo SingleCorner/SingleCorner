@@ -19,5 +19,5 @@
 
 
 - 对我的任何项目感兴趣
-  #- [![Gitter](https://badges.gitter.im/Mammdoo/community.svg)](https://gitter.im/Mammdoo/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-  - [![slack](https://img.shields.io/badge/slack-Join%20Me-brightgreen.svg)](https://join.slack.com/t/mammdoo/shared_invite/zt-1hvr5rj87-vbpYDvcBGO8P16khQzi1TQ)
+[![slack](https://img.shields.io/badge/slack-Join%20Me-brightgreen.svg)](https://join.slack.com/t/mammdoo/shared_invite/zt-1hvr5rj87-vbpYDvcBGO8P16khQzi1TQ)
+[![Gitter](https://badges.gitter.im/Mammdoo/community.svg)](https://gitter.im/Mammdoo/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
